@@ -1,3 +1,6 @@
 == README
 
 Learning Rails through replicating the functionality of a modern website
+
+Session 3:
+Completed first feature test 
